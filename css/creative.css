@@ -10706,8 +10706,7 @@ header.masthead h1 {
 
 .bg-dark {
   background-image: url(../img/mkg-moneybg.jpg);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat-y;
 }
 
 #portfolio .container-fluid {
