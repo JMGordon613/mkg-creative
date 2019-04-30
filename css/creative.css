@@ -10698,6 +10698,18 @@ header.masthead h1 {
   }
 }
 
+.jumbotron {
+  background-image: url(../img/mkg-moneybg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg-dark {
+  background-image: url(../img/mkg-moneybg.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 #portfolio .container-fluid {
   max-width: 1920px;
 }
