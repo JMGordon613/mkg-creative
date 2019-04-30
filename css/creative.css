@@ -10708,6 +10708,10 @@ header.masthead h1 {
   background-image: url(../img/mkg-moneybg.jpg);
 }
 
+.bg-black {
+  background-color: #343a40;
+}
+
 #portfolio .container-fluid {
   max-width: 1920px;
 }
